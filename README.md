@@ -1,3 +1,5 @@
+Video tutorial showcasing webhook deleter and proof working: https://media.discordapp.net/attachments/1186045170966351882/1187513696767971509/copy_9122AD14-6687-4BE8-B408-CCE0AE97E6E6.mov?ex=65972950&is=6584b450&hm=6d8d89a79b968790a87773e6858db7fd6268dfccaa84e8eef5c9e4387cf4b251&
+
 # LustGen
 
 # Please note - This Gen is private and paid.
