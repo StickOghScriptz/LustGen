@@ -2,7 +2,7 @@ Video tutorial showcasing webhook deleter and proof working: https://media.disco
 
 # LustGen
 
-# Please note - This Gen is private and paid.
+# Please note - This Gen was private and paid.  IF IT DOESNT OPEN WITHOUT RUN AS ADMIN TRY TO RUN AS ADMIN EXPLAINED IN VIDEO 👆
 
 # How to use LustGen:
 1. open 'lustgen' with the custom icon
